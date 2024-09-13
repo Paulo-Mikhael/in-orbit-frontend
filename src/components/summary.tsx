@@ -49,7 +49,7 @@ export function Summary() {
         </OutlineButton>
         <OutlineButton>
           <Plus className="size-4 text-zinc-600" />
-          ALimentar-se bem
+          Alimentar-se bem
         </OutlineButton>
       </div>
       <div className="flex flex-col gap-6">
