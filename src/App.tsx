@@ -1,4 +1,3 @@
-import { useEffect, useState } from "react";
 import { CreateGoal } from "./components/create-goal";
 import { Summary } from "./components/summary";
 import { EmptyGoals } from "./components/empty-goals";
@@ -10,6 +9,7 @@ export function App() {
   const { data } = useQuery({
     queryKey: ["summary"],
     queryFn: getSummary,
+    staleTime: 1000 * 60, // 60 segundos antes de fazer outra requisição "summary"
   });
 
   return (
