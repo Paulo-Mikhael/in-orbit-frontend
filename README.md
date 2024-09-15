@@ -16,7 +16,7 @@
   </abbr>
 </div>
 
-## Bibliotecas
+## Bibliotecas 📚
 <div>
   <abbr title="Tailwind CSS - Biblioteca de estilização" >
     <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="badge da biblioteca Tailwind CSS" />
@@ -29,7 +29,7 @@
   </abbr>
 </div>
 
-## Estrutura principal do Projeto
+## Estrutura principal do Projeto 🗃️
 ```plaintext
 src
 ├── assets
@@ -55,7 +55,7 @@ src
 - main.tsx - Arquivo padrão do React, onde fica o componente principal que vai ser carregado;
 - vite-env.d.ts - Arquivo padrão do Vite, onde fica as tipagens aceitáveis da aplicação.
 
-## Rodando Localmente (Prompt)
+## Rodando Localmente (Prompt) 📟
 ### Rode o backend feito para o in.orbit, para saber mais sobre como fazer isso, [clique aqui](https://github.com/Paulo-Mikhael/in-orbit-backend?tab=readme-ov-file#rodando-localmente-prompt).
 ### Clone o projeto
 ```bash
@@ -86,7 +86,7 @@ src
   - [Landing Page para um e-commerce de tech](https://github.com/Paulo-Mikhael/phlox?tab=readme-ov-file#readme)
   - [Landing Page para um e-commerce de plantas](https://github.com/Paulo-Mikhael/casa-verde?tab=readme-ov-file#readme)
 
-## Contatos
+## Contatos 📞
   [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)](https://portifolio-react-three.vercel.app/contacts)
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/paulo-miguel-4b706022b/)
   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pa__miguel?igsh=MWxoYzdqNGluZWcyaA%3D%3D)
