@@ -1,4 +1,5 @@
 # in.orbit
+![página principal da aplicação](src/assets/in-orbit-frontend.png)
 
 ## Sobre ✏️
 ### A in.orbit é uma aplicação de metas pessoais, onde é possível criar metas e completa-las ao longo da semana, a cada meta completa, é salvo o dia e hora em que ela foi concluída e é mostrado ao usuário, organizadas pelo dia da semana. Para a aplicação funcionar, é necessário rodar o backend feito para o projeto, mais informações no tópico "[Rodando Localmente (prompt)](#rodando-localmente-prompt)".
@@ -29,6 +30,9 @@
   </abbr>
 </div>
 
+## Backend 📥
+[in.orbit backend](https://github.com/Paulo-Mikhael/in-orbit-backend?tab=readme-ov-file#readme)
+
 ## Estrutura principal do Projeto 🗃️
 ```plaintext
 src
@@ -45,6 +49,7 @@ src
 ├── main.tsx
 └── vite-env.d.ts
 ```
+
 ### Descrição:
 - src - Arquivo raíz da aplicação;
 - assets - Ficam os arquivos visuais da aplicação, como as imagens e ícones;
