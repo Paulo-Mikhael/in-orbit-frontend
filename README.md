@@ -2,7 +2,7 @@
 ![página principal da aplicação](src/assets/in-orbit-frontend.png)
 
 ## Sobre ✏️
-### A in.orbit é uma aplicação de metas pessoais, onde é possível criar metas e completa-las ao longo da semana, a cada meta completa, é salvo o dia e hora em que ela foi concluída e é mostrado ao usuário, organizadas pelo dia da semana. Para a aplicação funcionar, é necessário rodar o backend feito para o projeto, mais informações no tópico "[Rodando Localmente (prompt)](#rodando-localmente-prompt)".
+### A in.orbit é uma aplicação de metas pessoais, onde é possível criar metas e completa-las ao longo da semana, a cada meta completa, é salvo o dia e hora em que ela foi concluída e é mostrado ao usuário, organizadas pelo dia da semana. Para a aplicação funcionar, é necessário rodar o backend feito para o projeto, mais informações no tópico "[Rodando Localmente (prompt)](#rodando-localmente-prompt-)".
 
 ## Tecnologias 💻
 <div>
@@ -31,7 +31,7 @@
 </div>
 
 ## Backend 📥
-[in.orbit backend](https://github.com/Paulo-Mikhael/in-orbit-backend?tab=readme-ov-file#readme)
+[![badge do nodejs](https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://github.com/Paulo-Mikhael/in-orbit-backend?tab=readme-ov-file#readme)
 
 ## Estrutura principal do Projeto 🗃️
 ```plaintext
@@ -85,7 +85,7 @@ src
 
 ## Confira meus outros projetos 🛠️
   - [in.orbit (back-end) - Aplicação de metas pessoais](https://github.com/Paulo-Mikhael/in-orbit-backend?tab=readme-ov-file#readme)
-  - [PHLOX Blog](https://github.com/Paulo-Mikhael/phlox-blog?tab=readme-ov-file#readme)
+  - [PHLOX Blog - Blog de uma empresa de tecnologia](https://github.com/Paulo-Mikhael/phlox-blog?tab=readme-ov-file#readme)
   - [Fastask - Gerenciador de Tarefas](https://github.com/Paulo-Mikhael/fastask?tab=readme-ov-file#readme)
   - [Landing Page para uma academia](https://github.com/Paulo-Mikhael/academia-landing-page?tab=readme-ov-file#readme)
   - [Landing Page para um e-commerce de tech](https://github.com/Paulo-Mikhael/phlox?tab=readme-ov-file#readme)
