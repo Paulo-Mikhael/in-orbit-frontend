@@ -61,7 +61,7 @@ src
 - vite-env.d.ts - Arquivo padrão do Vite, onde fica as tipagens aceitáveis da aplicação.
 
 ## Rodando Localmente (Prompt) 📟
-### Rode o backend feito para o in.orbit, para saber mais sobre como fazer isso, [clique aqui](https://github.com/Paulo-Mikhael/in-orbit-backend?tab=readme-ov-file#rodando-localmente-prompt).
+### Rode o backend feito para o in.orbit, para saber mais sobre como fazer isso, [clique aqui](https://github.com/Paulo-Mikhael/in-orbit-backend?tab=readme-ov-file#rodando-localmente-prompt-).
 ### Clone o projeto
 ```bash
   git clone https://github.com/Paulo-Mikhael/in-orbit-frontend
